@@ -21,6 +21,7 @@
       "minecraft:desert": "2025-08-01 07:57:29 +0000",
       "minecraft:jungle": "2025-07-31 03:12:56 +0000",
       "minecraft:sunflower_plains": "2025-08-07 05:34:48 +0000",
+      "minecraft:birch_forest": "2025-08-26 04:04:03 +0000",
       "minecraft:savanna": "2025-07-31 06:39:40 +0000",
       "minecraft:windswept_savanna": "2025-07-31 06:38:00 +0000",
       "minecraft:plains": "2025-07-31 03:00:47 +0000",
@@ -3410,6 +3411,42 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-08-25 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-26 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-08-26 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-26 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-08-26 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-08-26 04:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-26 03:44:18 +0000"
     },
     "done": true
   },
