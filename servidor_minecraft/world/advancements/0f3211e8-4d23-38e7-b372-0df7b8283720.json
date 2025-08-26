@@ -263,6 +263,7 @@
       "minecraft:ravager": "2025-08-25 20:38:32 +0000",
       "minecraft:husk": "2025-08-01 07:58:54 +0000",
       "minecraft:ghast": "2025-08-01 04:15:08 +0000",
+      "minecraft:ender_dragon": "2025-08-26 04:26:01 +0000",
       "minecraft:hoglin": "2025-08-01 04:06:38 +0000",
       "minecraft:piglin": "2025-08-01 04:07:34 +0000",
       "minecraft:breeze": "2025-08-02 03:35:17 +0000",
@@ -3420,6 +3421,18 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-26 04:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-08-26 04:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-08-26 03:42:52 +0000"
@@ -3429,6 +3442,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-08-26 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-26 04:26:47 +0000"
     },
     "done": true
   },
@@ -3450,15 +3469,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-26 04:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-26 04:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-08-26 04:09:58 +0000"
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-26 04:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-08-26 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-26 04:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-26 04:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-26 04:20:16 +0000"
     },
     "done": true
   },
