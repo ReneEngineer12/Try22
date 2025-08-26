@@ -338,3 +338,8 @@
 [04:43:52] [Server thread/INFO]: [Not Secure] <dieggox> asdsad tya
 [04:43:56] [Server thread/INFO]: [Not Secure] [Server] a ver si alcanzas a pillar
 [04:44:03] [Server thread/INFO]: [Not Secure] <dieggox> en vola
+[05:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[05:15:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=868, y=61, z=671} jb{x=868, y=59, z=671}
+[05:25:37] [Server thread/INFO]: dieggox lost connection: Disconnected
+[05:25:37] [Server thread/INFO]: dieggox left the game
+[05:26:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
