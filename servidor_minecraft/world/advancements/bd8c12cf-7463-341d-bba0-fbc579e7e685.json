@@ -4037,9 +4037,15 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "minecraft:end/root": {
     "criteria": {
-      "dragon_egg": "2025-08-26 04:27:00 +0000"
+      "entered_end": "2025-08-26 04:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-26 04:20:36 +0000"
     },
     "done": true
   },
@@ -4061,12 +4067,6 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-08-26 04:20:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-08-26 04:22:13 +0000"
@@ -4079,9 +4079,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "entered_end": "2025-08-26 04:20:36 +0000"
+      "dragon_egg": "2025-08-26 04:27:00 +0000"
     },
     "done": true
   },
