@@ -39,3 +39,14 @@
 [01:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
 [01:46:08] [Server thread/INFO]: [Not Secure] [Server] olaa
 [01:46:22] [Server thread/INFO]: [Not Secure] <AVich0> hola
+[02:07:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1736, y=-58, z=907} jb{x=1736, y=-59, z=906}
+[02:07:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1736, y=-58, z=907} jb{x=1736, y=-59, z=906}
+[02:07:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1736, y=-58, z=907} jb{x=1736, y=-59, z=906}
+[02:07:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1739, y=-57, z=908} jb{x=1740, y=-58, z=909}
+[02:07:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1739, y=-57, z=908} jb{x=1740, y=-58, z=909}
+[02:08:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1752, y=-58, z=908} jb{x=1753, y=-59, z=909}
+[02:14:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1346, y=-59, z=899} jb{x=1346, y=-61, z=899}
+[02:14:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1349, y=-59, z=897} jb{x=1350, y=-60, z=897}
+[02:14:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1349, y=-58, z=898} jb{x=1349, y=-58, z=897}
+[02:14:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1349, y=-58, z=898} jb{x=1349, y=-58, z=897}
+[02:14:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1349, y=-58, z=898} jb{x=1349, y=-58, z=897}
