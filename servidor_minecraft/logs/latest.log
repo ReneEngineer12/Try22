@@ -32,3 +32,9 @@
 [16:25:12] [Server thread/INFO]: DonPepsi joined the game
 [16:31:42] [Server thread/INFO]: fofi[/127.237.38.199:40219] logged in with entity id 2806 at (60.30752484636133, 66.0, -7.09446184202442)
 [16:31:42] [Server thread/INFO]: fofi joined the game
+[16:50:29] [Server thread/INFO]: fofi lost connection: Timed out
+[16:50:29] [Server thread/INFO]: fofi left the game
+[16:50:29] [Server thread/WARN]: handleDisconnection() called twice
+[16:50:30] [Server thread/INFO]: DonPepsi lost connection: Timed out
+[16:50:30] [Server thread/INFO]: DonPepsi left the game
+[16:51:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
