@@ -44,3 +44,4 @@
 [17:23:35] [Server thread/INFO]: DonPepsi joined the game
 [17:29:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=13, y=12, z=5} jb{x=13, y=10, z=4}
 [17:29:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=10, y=11, z=5} jb{x=10, y=10, z=5}
+[17:35:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=34, y=12, z=-63} jb{x=34, y=12, z=-53}
