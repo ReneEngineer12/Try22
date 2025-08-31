@@ -34,3 +34,8 @@
 [00:39:31] [Server thread/INFO]: DonPepsi joined the game
 [00:40:00] [Server thread/INFO]: [DonPepsi: Teleported DonPepsi to 18.500000, 88.000000, 12.500000]
 [00:40:13] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
+[02:13:47] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[02:13:47] [Server thread/INFO]: DonPepsi left the game
+[02:14:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:14:58] [Server thread/INFO]: DonPepsi[/127.237.38.199:37925] logged in with entity id 17386 at (142.80074133466985, 91.0, -25.857572611276172)
+[02:14:58] [Server thread/INFO]: DonPepsi joined the game
