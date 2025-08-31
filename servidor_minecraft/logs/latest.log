@@ -45,3 +45,15 @@
 [17:29:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=13, y=12, z=5} jb{x=13, y=10, z=4}
 [17:29:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=10, y=11, z=5} jb{x=10, y=10, z=5}
 [17:35:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=34, y=12, z=-63} jb{x=34, y=12, z=-53}
+[17:55:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=53, y=42, z=-145} jb{x=35, y=33, z=-143}
+[17:55:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=53, y=42, z=-145} jb{x=35, y=33, z=-143}
+[17:55:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=53, y=42, z=-145} jb{x=35, y=33, z=-143}
+[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
+[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
+[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
+[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
+[17:58:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=22, y=16, z=-118} jb{x=22, y=15, z=-111}
+[17:59:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=23, y=14, z=-86} jb{x=17, y=16, z=-90}
+[18:00:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=17, y=16, z=-90} jb{x=12, y=16, z=-90}
+[18:02:02] [Server thread/INFO]: fofi lost connection: Disconnected
+[18:02:02] [Server thread/INFO]: fofi left the game
