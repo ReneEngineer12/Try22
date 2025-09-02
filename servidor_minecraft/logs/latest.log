@@ -1,59 +1,39 @@
-[16:23:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:23:58] [ServerMain/INFO]: Loaded 1407 recipes
-[16:23:58] [ServerMain/INFO]: Loaded 1520 advancements
-[16:23:58] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:23:58] [Server thread/INFO]: Loading properties
-[16:23:58] [Server thread/INFO]: Default game type: SURVIVAL
-[16:23:58] [Server thread/INFO]: Generating keypair
-[16:23:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:23:58] [Server thread/INFO]: Using epoll channel type
-[16:23:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:23:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:23:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:23:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:23:58] [Server thread/INFO]: Preparing level "world"
-[16:23:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:24:05] [Server thread/INFO]: Time elapsed: 5936 ms
-[16:24:05] [Server thread/INFO]: Done (6.626s)! For help, type "help"
-[16:25:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:25:12] [Server thread/INFO]: DonPepsi[/127.237.38.199:46279] logged in with entity id 27 at (-68.30000001192093, 63.0, 220.8512100169251)
-[16:25:12] [Server thread/INFO]: DonPepsi joined the game
-[16:31:42] [Server thread/INFO]: fofi[/127.237.38.199:40219] logged in with entity id 2806 at (60.30752484636133, 66.0, -7.09446184202442)
-[16:31:42] [Server thread/INFO]: fofi joined the game
-[16:50:29] [Server thread/INFO]: fofi lost connection: Timed out
-[16:50:29] [Server thread/INFO]: fofi left the game
-[16:50:29] [Server thread/WARN]: handleDisconnection() called twice
-[16:50:30] [Server thread/INFO]: DonPepsi lost connection: Timed out
-[16:50:30] [Server thread/INFO]: DonPepsi left the game
-[16:51:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:56:13] [Server thread/INFO]: fofi[/127.237.38.199:45905] logged in with entity id 8426 at (201.36723615005064, 67.0, 24.11571734764398)
-[16:56:13] [Server thread/INFO]: fofi joined the game
-[17:23:35] [Server thread/INFO]: DonPepsi[/127.237.38.199:58841] logged in with entity id 13326 at (26.581716239897425, 55.0, 32.010493599348564)
-[17:23:35] [Server thread/INFO]: DonPepsi joined the game
-[17:29:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=13, y=12, z=5} jb{x=13, y=10, z=4}
-[17:29:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=10, y=11, z=5} jb{x=10, y=10, z=5}
-[17:35:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=34, y=12, z=-63} jb{x=34, y=12, z=-53}
-[17:55:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=53, y=42, z=-145} jb{x=35, y=33, z=-143}
-[17:55:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=53, y=42, z=-145} jb{x=35, y=33, z=-143}
-[17:55:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=53, y=42, z=-145} jb{x=35, y=33, z=-143}
-[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
-[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
-[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
-[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=38, y=30, z=-143} jb{x=36, y=29, z=-143}
-[17:58:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=22, y=16, z=-118} jb{x=22, y=15, z=-111}
-[17:59:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=23, y=14, z=-86} jb{x=17, y=16, z=-90}
-[18:00:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=17, y=16, z=-90} jb{x=12, y=16, z=-90}
-[18:02:02] [Server thread/INFO]: fofi lost connection: Disconnected
-[18:02:02] [Server thread/INFO]: fofi left the game
+[03:46:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:46:47] [ServerMain/INFO]: Loaded 1407 recipes
+[03:46:47] [ServerMain/INFO]: Loaded 1520 advancements
+[03:46:47] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:46:47] [Server thread/INFO]: Loading properties
+[03:46:47] [Server thread/INFO]: Default game type: SURVIVAL
+[03:46:47] [Server thread/INFO]: Generating keypair
+[03:46:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:46:47] [Server thread/INFO]: Using epoll channel type
+[03:46:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:46:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:46:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:46:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:46:47] [Server thread/INFO]: Preparing level "world"
+[03:46:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:46:57] [Server thread/INFO]: Time elapsed: 9462 ms
+[03:46:57] [Server thread/INFO]: Done (9.940s)! For help, type "help"
+[03:47:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:49:21] [Server thread/INFO]: dieggox[/127.36.204.58:54419] logged in with entity id 36 at (186.69999998807907, 97.0, -65.58640881993647)
+[03:49:21] [Server thread/INFO]: dieggox joined the game
