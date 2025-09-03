@@ -71,3 +71,6 @@
 [18:52:56] [Server thread/INFO]: DonPepsi lost connection: Disconnected
 [18:52:56] [Server thread/INFO]: DonPepsi left the game
 [18:57:57] [Server thread/INFO]: Villager cuf['Villager'/462, l='ServerLevel[world]', x=-19.49, y=64.25, z=147.49] died, message: 'Villager hit the ground too hard'
+[19:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-31, y=64, z=146} jb{x=-9, y=62, z=133}
+[19:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=62, z=134} jb{x=-8, y=62, z=133}
+[19:05:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=62, z=134} jb{x=-8, y=62, z=133}
