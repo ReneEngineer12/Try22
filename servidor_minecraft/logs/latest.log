@@ -35,3 +35,68 @@
 [17:27:01] [Server thread/INFO]: dieggox joined the game
 [17:27:01] [Server thread/WARN]: UUID of added entity already exists: cvy['Thrown Ender Pearl'/71, l='ServerLevel[world]', x=-212.36, y=62.95, z=349.46]
 [17:27:01] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[18:00:18] [Server thread/WARN]: dieggox moved too quickly! -15.632290583612132,-1.7607813561497068,9.923996800372414
+[18:00:53] [Server thread/INFO]: NokiiGame[/127.97.27.123:44741] logged in with entity id 11950 at (119.5, 85.0, -153.5)
+[18:00:53] [Server thread/INFO]: NokiiGame joined the game
+[18:01:02] [Server thread/INFO]: [Not Secure] <NokiiGame> hey
+[18:02:20] [Server thread/INFO]: [Not Secure] <dieggox> hola
+[18:02:21] [Server thread/INFO]: _Malish_[/127.196.106.95:45925] logged in with entity id 12427 at (120.5, 78.0, -143.5)
+[18:02:21] [Server thread/INFO]: _Malish_ joined the game
+[18:02:23] [Server thread/INFO]: [Not Secure] <NokiiGame> hola
+[18:02:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=118, y=82, z=-146}
+[18:02:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=118, y=82, z=-146}
+[18:02:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=119, y=82, z=-147}
+[18:02:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=118, y=83, z=-147}
+[18:02:37] [Server thread/INFO]: [Not Secure] <_Malish_> hola
+[18:02:42] [Server thread/INFO]: NokiiGame has reached the goal [Sky's the Limit]
+[18:03:00] [Server thread/INFO]: _Malish_ has made the advancement [A Seedy Place]
+[18:03:29] [Server thread/INFO]: _Malish_ has made the advancement [Diamonds!]
+[18:03:39] [Server thread/INFO]: _Malish_ has made the advancement [Sweet Dreams]
+[18:03:59] [Server thread/INFO]: NokiiGame experienced kinetic energy
+[18:04:30] [Server thread/INFO]: _Malish_ has made the advancement [The Parrots and the Bats]
+[18:05:27] [Server thread/INFO]: [Not Secure] <_Malish_> hola
+[18:05:38] [Server thread/INFO]: [Not Secure] <dieggox> hola
+[18:05:49] [Server thread/INFO]: [Not Secure] <_Malish_> muchacho
+[18:06:00] [Server thread/INFO]: NokiiGame has made the advancement [Diamonds!]
+[18:06:07] [Server thread/INFO]: NokiiGame was slain by dieggox using [MATA WEONES]
+[18:06:10] [Server thread/INFO]: [Not Secure] <NokiiGame> sorry\
+[18:06:34] [Server thread/INFO]: [Not Secure] <dieggox> donde dejaste las elytras
+[18:06:48] [Server thread/INFO]: NokiiGame has made the advancement [Sweet Dreams]
+[18:06:54] [Server thread/INFO]: [Not Secure] <NokiiGame> sory
+[18:07:42] [Server thread/INFO]: [Not Secure] <dieggox> donde moriste con las elytras??
+[18:08:21] [Server thread/INFO]: NokiiGame was slain by dieggox using [MATA WEONES]
+[18:08:32] [Server thread/INFO]: [Not Secure] <NokiiGame> im trying to find your elytras
+[18:08:39] [Server thread/INFO]: [Not Secure] <NokiiGame> they are somewhere there
+[18:08:48] [Server thread/INFO]: _Malish_ was slain by dieggox using [MATA WEONES]
+[18:09:57] [Server thread/INFO]: [Not Secure] <NokiiGame> we are friends
+[18:10:00] [Server thread/INFO]: [Not Secure] <NokiiGame> chill pls
+[18:10:05] [Server thread/INFO]: _Malish_ was slain by dieggox using [MATA WEONES]
+[18:10:08] [Server thread/INFO]: [Not Secure] <dieggox> salganse
+[18:10:14] [Server thread/INFO]: [Not Secure] <dieggox> es privado
+[18:10:50] [Server thread/INFO]: NokiiGame was slain by dieggox using [MATA WEONES]
+[18:11:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:11:40] [Server thread/INFO]: ,ban-ip _Malish_<--[HERE]
+[18:11:44] [Server thread/INFO]: [Not Secure] <dieggox> quienes son
+[18:11:50] [Server thread/INFO]: [Not Secure] <NokiiGame> hermano la pasion
+[18:11:52] [Server thread/INFO]: [Not Secure] <NokiiGame> sorry
+[18:11:58] [Server thread/INFO]: [Not Secure] <NokiiGame> amigo
+[18:12:00] [Server thread/INFO]: [Not Secure] <NokiiGame> we amigo
+[18:12:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:12:12] [Server thread/INFO]: ba/ban-ip NokiiGame<--[HERE]
+[18:12:17] [Server thread/INFO]: [Not Secure] <_Malish_> lo siento,hermano. Venimos en son de paz. No nos mates
+[18:12:31] [Server thread/INFO]: [Not Secure] <NokiiGame> sory amigo
+[18:12:37] [Server thread/INFO]: Invalid IP address or unknown player
+[18:12:51] [Server thread/INFO]: Banned IP 127.97.27.123: Banned by an operator.
+[18:12:51] [Server thread/INFO]: This ban affects 1 player(s): NokiiGame
+[18:12:51] [Server thread/INFO]: NokiiGame lost connection: You have been IP banned from this server
+[18:12:51] [Server thread/INFO]: NokiiGame left the game
+[18:12:51] [Server thread/WARN]: handleDisconnection() called twice
+[18:13:06] [Server thread/INFO]: Banned IP 127.196.106.95: Banned by an operator.
+[18:13:06] [Server thread/INFO]: This ban affects 1 player(s): _Malish_
+[18:13:06] [Server thread/INFO]: _Malish_ lost connection: You have been IP banned from this server
+[18:13:06] [Server thread/INFO]: _Malish_ left the game
+[18:13:18] [Server thread/INFO]: [Not Secure] [Server] baniados las mrd
+[18:13:25] [Server thread/INFO]: [Not Secure] <dieggox> scw
+[18:13:29] [Server thread/INFO]: [Not Secure] <dieggox> perdieron tus elytras
+[18:13:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:13:45] [Server thread/INFO]: que/say ya las saco de creativo<--[HERE]
