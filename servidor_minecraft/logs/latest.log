@@ -80,3 +80,6 @@
 [19:46:43] [Server thread/WARN]: dieggox moved too quickly! 1.5101718497215515,-12.253696747978978,-0.7787168675139879
 [20:21:34] [Server thread/WARN]: dieggox moved too quickly! 1.9796653120830037,7.043192414098854,-16.595245887692172
 [20:21:36] [Server thread/WARN]: dieggox moved too quickly! 4.1888255498835925,8.651753229509211,-15.500079991050384
+[21:15:05] [Server thread/INFO]: dieggox lost connection: Disconnected
+[21:15:05] [Server thread/INFO]: dieggox left the game
+[21:16:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
