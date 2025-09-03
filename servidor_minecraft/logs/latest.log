@@ -78,3 +78,5 @@
 [19:33:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4, y=76, z=133} jb{x=1, y=77, z=133}
 [19:43:45] [Server thread/WARN]: dieggox moved wrongly!
 [19:46:43] [Server thread/WARN]: dieggox moved too quickly! 1.5101718497215515,-12.253696747978978,-0.7787168675139879
+[20:21:34] [Server thread/WARN]: dieggox moved too quickly! 1.9796653120830037,7.043192414098854,-16.595245887692172
+[20:21:36] [Server thread/WARN]: dieggox moved too quickly! 4.1888255498835925,8.651753229509211,-15.500079991050384
