@@ -35,3 +35,25 @@
 [22:24:08] [Server thread/INFO]: DonPepsi joined the game
 [22:25:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-199, y=72, z=-61} jb{x=-200, y=71, z=-63}
 [22:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-206, y=73, z=-57} jb{x=-203, y=72, z=-57}
+[22:59:30] [Server thread/INFO]: m1msai[/127.13.165.4:56275] logged in with entity id 10430 at (122.5, 88.0, -147.5)
+[22:59:30] [Server thread/INFO]: m1msai joined the game
+[22:59:44] [Server thread/INFO]: SiVeg[/127.224.211.149:36431] logged in with entity id 10597 at (129.5, 77.0, -137.5)
+[22:59:44] [Server thread/INFO]: SiVeg joined the game
+[23:00:50] [Server thread/INFO]: [DonPepsi: Banned IP 127.13.165.4: Banned by an operator.]
+[23:00:50] [Server thread/INFO]: [DonPepsi: This ban affects 1 player(s): m1msai]
+[23:00:50] [Server thread/INFO]: m1msai lost connection: You have been IP banned from this server
+[23:00:50] [Server thread/INFO]: m1msai left the game
+[23:00:50] [Server thread/WARN]: handleDisconnection() called twice
+[23:00:59] [Server thread/INFO]: [DonPepsi: Set own game mode to Creative Mode]
+[23:01:04] [Server thread/INFO]: [Not Secure] <DonPepsi> who r you
+[23:01:06] [Server thread/INFO]: Disconnecting m1msai (/127.13.165.4:36435): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:01:06] [Server thread/INFO]: m1msai (/127.13.165.4:36435) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[23:01:06] [Server thread/WARN]: handleDisconnection() called twice
+[23:01:14] [Server thread/INFO]: [Not Secure] <SiVeg> i am siveg
+[23:01:37] [Server thread/INFO]: [DonPepsi: Banned IP 127.224.211.149: Banned by an operator.]
+[23:01:37] [Server thread/INFO]: [DonPepsi: This ban affects 1 player(s): SiVeg]
+[23:01:37] [Server thread/INFO]: SiVeg lost connection: You have been IP banned from this server
+[23:01:37] [Server thread/INFO]: SiVeg left the game
+[23:02:43] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
