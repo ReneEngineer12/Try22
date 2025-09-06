@@ -34,3 +34,8 @@
 [16:07:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [16:09:07] [Server thread/INFO]: DonPepsi[/127.237.38.199:58281] logged in with entity id 29 at (130.3806293710616, 95.0, -10.427002996426195)
 [16:09:07] [Server thread/INFO]: DonPepsi joined the game
+[16:40:54] [Server thread/INFO]: DonPepsi lost connection: Timed out
+[16:40:54] [Server thread/INFO]: DonPepsi left the game
+[16:40:54] [Server thread/WARN]: handleDisconnection() called twice
+[16:41:26] [Server thread/INFO]: DonPepsi[/127.237.38.199:47137] logged in with entity id 6776 at (140.06688923167943, 99.0, -13.197680068550762)
+[16:41:26] [Server thread/INFO]: DonPepsi joined the game
