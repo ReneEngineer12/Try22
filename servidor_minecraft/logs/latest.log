@@ -1,59 +1,36 @@
-[22:23:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:23:50] [ServerMain/INFO]: Loaded 1407 recipes
-[22:23:50] [ServerMain/INFO]: Loaded 1520 advancements
-[22:23:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:23:50] [Server thread/INFO]: Loading properties
-[22:23:50] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:50] [Server thread/INFO]: Generating keypair
-[22:23:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:51] [Server thread/INFO]: Using epoll channel type
-[22:23:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:23:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:23:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:23:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:23:51] [Server thread/INFO]: Preparing level "world"
-[22:23:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:23:59] [Server thread/INFO]: Time elapsed: 8075 ms
-[22:23:59] [Server thread/INFO]: Done (8.573s)! For help, type "help"
-[22:24:07] [Server thread/INFO]: DonPepsi[/127.254.80.18:34473] logged in with entity id 33 at (126.67044440714625, 91.0, -21.40511055708136)
-[22:24:08] [Server thread/INFO]: DonPepsi joined the game
-[22:25:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-199, y=72, z=-61} jb{x=-200, y=71, z=-63}
-[22:25:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-206, y=73, z=-57} jb{x=-203, y=72, z=-57}
-[22:59:30] [Server thread/INFO]: m1msai[/127.13.165.4:56275] logged in with entity id 10430 at (122.5, 88.0, -147.5)
-[22:59:30] [Server thread/INFO]: m1msai joined the game
-[22:59:44] [Server thread/INFO]: SiVeg[/127.224.211.149:36431] logged in with entity id 10597 at (129.5, 77.0, -137.5)
-[22:59:44] [Server thread/INFO]: SiVeg joined the game
-[23:00:50] [Server thread/INFO]: [DonPepsi: Banned IP 127.13.165.4: Banned by an operator.]
-[23:00:50] [Server thread/INFO]: [DonPepsi: This ban affects 1 player(s): m1msai]
-[23:00:50] [Server thread/INFO]: m1msai lost connection: You have been IP banned from this server
-[23:00:50] [Server thread/INFO]: m1msai left the game
-[23:00:50] [Server thread/WARN]: handleDisconnection() called twice
-[23:00:59] [Server thread/INFO]: [DonPepsi: Set own game mode to Creative Mode]
-[23:01:04] [Server thread/INFO]: [Not Secure] <DonPepsi> who r you
-[23:01:06] [Server thread/INFO]: Disconnecting m1msai (/127.13.165.4:36435): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[23:01:06] [Server thread/INFO]: m1msai (/127.13.165.4:36435) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[23:01:06] [Server thread/WARN]: handleDisconnection() called twice
-[23:01:14] [Server thread/INFO]: [Not Secure] <SiVeg> i am siveg
-[23:01:37] [Server thread/INFO]: [DonPepsi: Banned IP 127.224.211.149: Banned by an operator.]
-[23:01:37] [Server thread/INFO]: [DonPepsi: This ban affects 1 player(s): SiVeg]
-[23:01:37] [Server thread/INFO]: SiVeg lost connection: You have been IP banned from this server
-[23:01:37] [Server thread/INFO]: SiVeg left the game
-[23:02:43] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
+[16:06:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:06:10] [ServerMain/INFO]: Loaded 1407 recipes
+[16:06:10] [ServerMain/INFO]: Loaded 1520 advancements
+[16:06:10] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:06:10] [Server thread/INFO]: Loading properties
+[16:06:10] [Server thread/INFO]: Default game type: SURVIVAL
+[16:06:10] [Server thread/INFO]: Generating keypair
+[16:06:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:06:10] [Server thread/INFO]: Using epoll channel type
+[16:06:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:06:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:06:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:06:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:06:10] [Server thread/INFO]: Preparing level "world"
+[16:06:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:06:19] [Server thread/INFO]: Time elapsed: 7792 ms
+[16:06:19] [Server thread/INFO]: Done (8.347s)! For help, type "help"
+[16:07:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:09:07] [Server thread/INFO]: DonPepsi[/127.237.38.199:58281] logged in with entity id 29 at (130.3806293710616, 95.0, -10.427002996426195)
+[16:09:07] [Server thread/INFO]: DonPepsi joined the game
