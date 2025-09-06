@@ -1,41 +1,43 @@
-[16:06:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:06:10] [ServerMain/INFO]: Loaded 1407 recipes
-[16:06:10] [ServerMain/INFO]: Loaded 1520 advancements
-[16:06:10] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:06:10] [Server thread/INFO]: Loading properties
-[16:06:10] [Server thread/INFO]: Default game type: SURVIVAL
-[16:06:10] [Server thread/INFO]: Generating keypair
-[16:06:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:06:10] [Server thread/INFO]: Using epoll channel type
-[16:06:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:06:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:06:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:06:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:06:10] [Server thread/INFO]: Preparing level "world"
-[16:06:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:06:19] [Server thread/INFO]: Time elapsed: 7792 ms
-[16:06:19] [Server thread/INFO]: Done (8.347s)! For help, type "help"
-[16:07:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:09:07] [Server thread/INFO]: DonPepsi[/127.237.38.199:58281] logged in with entity id 29 at (130.3806293710616, 95.0, -10.427002996426195)
-[16:09:07] [Server thread/INFO]: DonPepsi joined the game
-[16:40:54] [Server thread/INFO]: DonPepsi lost connection: Timed out
-[16:40:54] [Server thread/INFO]: DonPepsi left the game
-[16:40:54] [Server thread/WARN]: handleDisconnection() called twice
-[16:41:26] [Server thread/INFO]: DonPepsi[/127.237.38.199:47137] logged in with entity id 6776 at (140.06688923167943, 99.0, -13.197680068550762)
-[16:41:26] [Server thread/INFO]: DonPepsi joined the game
+[19:52:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:52:55] [ServerMain/INFO]: Loaded 1407 recipes
+[19:52:55] [ServerMain/INFO]: Loaded 1520 advancements
+[19:52:55] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:52:55] [Server thread/INFO]: Loading properties
+[19:52:55] [Server thread/INFO]: Default game type: SURVIVAL
+[19:52:55] [Server thread/INFO]: Generating keypair
+[19:52:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:52:55] [Server thread/INFO]: Using epoll channel type
+[19:52:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:52:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:52:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:52:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:52:55] [Server thread/INFO]: Preparing level "world"
+[19:52:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:03] [Server thread/INFO]: Time elapsed: 7446 ms
+[19:53:03] [Server thread/INFO]: Done (7.968s)! For help, type "help"
+[19:53:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:53:03] [Server thread/INFO]: <--[HERE]
+[19:53:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:53:04] [Server thread/INFO]: <--[HERE]
+[19:53:56] [Server thread/INFO]: DonPepsi[/127.237.38.199:35197] logged in with entity id 31 at (135.55623712103375, 91.0, -23.589899364431496)
+[19:53:56] [Server thread/INFO]: DonPepsi joined the game
+[19:56:16] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[19:56:16] [Server thread/INFO]: DonPepsi left the game
+[19:57:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:58:19] [Server thread/INFO]: DonPepsi[/127.237.38.199:57869] logged in with entity id 874 at (142.13662466999978, 91.0, -22.645489567134238)
+[19:58:19] [Server thread/INFO]: DonPepsi joined the game
