@@ -40,3 +40,9 @@
 [22:19:42] [Server thread/INFO]: DonPepsi left the game
 [22:19:42] [Server thread/WARN]: handleDisconnection() called twice
 [22:20:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:33:27] [Server thread/INFO]: DonPepsi[/127.170.14.175:42959] logged in with entity id 5220 at (-26.318385402712458, 60.0, 172.44496750409766)
+[22:33:27] [Server thread/INFO]: DonPepsi joined the game
+[22:37:52] [Server thread/WARN]: Birch Boat (vehicle of DonPepsi) moved wrongly! 0.33683146105082074
+[22:37:52] [Server thread/WARN]: Birch Boat (vehicle of DonPepsi) moved wrongly! 0.3717355955207893
+[22:37:52] [Server thread/WARN]: Birch Boat (vehicle of DonPepsi) moved wrongly! 0.4091157022679397
+[22:37:52] [Server thread/WARN]: Birch Boat (vehicle of DonPepsi) moved wrongly! 0.4806168833964364
