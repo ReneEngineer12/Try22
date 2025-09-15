@@ -37,3 +37,4 @@
 [04:48:21] [Server thread/INFO]: Done (10.187s)! For help, type "help"
 [04:48:51] [Server thread/INFO]: DonPepsi[/127.170.14.175:34075] logged in with entity id 28 at (-205.5996552795414, 63.0, 327.15682260547254)
 [04:48:52] [Server thread/INFO]: DonPepsi joined the game
+[05:45:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=14, z=-108} jb{x=-7, y=13, z=-108}
