@@ -54,3 +54,10 @@
 [05:57:38] [Server thread/INFO]: God[/127.170.14.175:45387] logged in with entity id 21090 at (207.9042473939682, 30.0, -155.20472492151544)
 [05:57:38] [Server thread/INFO]: God joined the game
 [05:58:09] [Server thread/INFO]: [God: Teleported God to 0.500000, 88.000000, 0.500000]
+[06:00:31] [Server thread/INFO]: DonPepsi[/127.170.14.175:50923] logged in with entity id 23190 at (-47.14080072268151, 8.0, -151.0624715888678)
+[06:00:31] [Server thread/INFO]: DonPepsi joined the game
+[06:00:50] [Server thread/INFO]: God lost connection: Disconnected
+[06:00:50] [Server thread/INFO]: God left the game
+[06:01:01] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[06:01:01] [Server thread/INFO]: DonPepsi left the game
+[06:02:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
